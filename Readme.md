@@ -1,1 +1,2 @@
-This file is for readme
+This repository contains Tensorflow projects/code
+which is used for practising Deep Learning Concepts.
